@@ -107,7 +107,7 @@ async def generate_interior(request: GenerateRequest):
 async def root(request: Request):
     return templates.TemplateResponse(
         request=request,
-        name="index_v2.html",
+        name="index_v3.html",
         context={}
     )
 
