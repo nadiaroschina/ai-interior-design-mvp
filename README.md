@@ -4,7 +4,7 @@ A web service for generating interior design concepts from natural-language desc
 
 ## Live app
 
-Link to the deployed app: [ai-interior-design-mvp-production.up.railway.app](ai-interior-design-mvp-production.up.railway.app)
+Link to the deployed app: https://ai-interior-design-mvp-production.up.railway.app/
 
 ## Team
 
@@ -25,7 +25,7 @@ The system is designed to be easier to use than professional interior design too
 ## MVP Features
 
 - free-text interior description
-- reqired structured parameters:
+- reqired structured parameters
   - style
   - room size
   - lighting
